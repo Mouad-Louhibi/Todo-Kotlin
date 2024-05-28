@@ -6,6 +6,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import android.widget.Toast
+import com.louhibi.calculator.databinding.ActivityAddTodoBinding
 import com.louhibi.calculator.entities.Todo
 import java.text.SimpleDateFormat
 import java.util.*

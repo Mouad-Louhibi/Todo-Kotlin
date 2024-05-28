@@ -10,6 +10,7 @@ import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.louhibi.calculator.adaptors.TodoAdapter
 import com.louhibi.calculator.database.AppDatabase
+import com.louhibi.calculator.databinding.ActivityMainBinding
 import com.louhibi.calculator.entities.Todo
 import com.louhibi.calculator.entities.TodoViewModel
 
